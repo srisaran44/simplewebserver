@@ -45,6 +45,7 @@ content = """
         <title>LAPTOP DETAIL</title>
     </head>
     <body align="center">
+        <h1>Srisaran</h1>
         <h1>MY REGISTER NO:25015592</h1>
         <table border="5" cellspaceing="5" cellpading="5" align="center" >
         <tr bgcolor="green">
